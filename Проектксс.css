@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700,900&subset=cyrillic");
+
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+.first{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+}
+
+.d1{
+ margin: 100px 0px 0px 50px;
+}
+
+.d2{
+    margin: 110px 60px 0px 0px;
+}
+
+.news{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding:0px 20px 20px 20px;
+}
+
+.n1{
+    padding:0px 20px 20px 20px;
+}
